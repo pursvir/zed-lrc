@@ -1,0 +1,5 @@
+name = "Lyrics"
+grammar = "lrc"
+path_suffixes = ["lrc"]
+line_comments = []
+brackets = []
